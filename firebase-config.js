@@ -4,7 +4,7 @@ import { getDatabase } from "https://www.gstatic.com/firebasejs/10.11.0/firebase
 const firebaseConfig = {
   apiKey: "AIza...abc",
   authDomain: "seu-projeto.firebaseapp.com",
-  databaseURL: "https://seu-projeto-default-rtdb.firebaseio.com",
+  databaseURL: "https://prontweb-d6e1c-default-rtdb.firebaseio.com/",
   projectId: "seu-projeto",
   storageBucket: "seu-projeto.appspot.com",
   messagingSenderId: "1234567890",
